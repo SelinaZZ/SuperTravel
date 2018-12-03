@@ -20,32 +20,32 @@ Finally, we developed a map for each combination of choice. Since our map.html c
 
 
 # Installation Instructions: In this project, we import several python libraries, including:
-Requests
-Bs4
-Beautifulsoup
-Pandas
-Numpy
-re
-tkinter
-tkinter.scrolledtext
-webbrowser
-csv
-pymysql
-folium
-Sys
+- Requests
+- Bs4
+- Beautifulsoup
+- Pandas
+- Numpy
+- re
+- tkinter
+- tkinter.scrolledtext
+- webbrowser
+- csv
+- pymysql
+- folium
+- sys
 
 # If you have errors in importing any of the previous packages, please try:
-!pip install (packagename) in jupyter notebook
+- !pip install (packagename) in jupyter notebook
 
 # 2nd choice: run conda install 
-The chromedriver is the software that needed to be downloaded outside jupyter notebook
-The chromedriver has been added to github
+- The chromedriver is the software that needed to be downloaded outside jupyter notebook
+- The chromedriver has been added to github
 
 # Run Instructions:
-The path.csv needed to be changed.
-The path is the executable path of chromedriver you have saved.
-The mappath is the file directory of the map been saved from running jupyter notebook (normally it is in the same directory as the jupyter notebook, name is map.html).
-The rpath.csv needed to be changed.
-The path is the executable path of chromedriver you have saved.
-The mappath is the file directory of the restaurant map been saved from running jupyter notebook (normally it is in the same directory as the jupyter notebook, in the name of rmap.html).
-Our main file is interface.ipynb, you do not need to run Tools Project.ipynb since all the output from Tools Project file has been saved as several local csv files in the github.
+- The path.csv needed to be changed.
+- The path is the executable path of chromedriver you have saved.
+- The mappath is the file directory of the map been saved from running jupyter notebook (normally it is in the same directory as the jupyter notebook, name is map.html).
+- The rpath.csv needed to be changed.
+- The path is the executable path of chromedriver you have saved.
+- The mappath is the file directory of the restaurant map been saved from running jupyter notebook (normally it is in the same directory as the jupyter notebook, in the name of rmap.html).
+- Our main file is interface.ipynb, you do not need to run Tools Project.ipynb since all the output from Tools Project file has been saved as several local csv files in the github.
