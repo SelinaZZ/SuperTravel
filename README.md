@@ -36,13 +36,13 @@ Finally, we developed a map for each combination of choice. Since our map.html c
 
 # If you have errors in importing any of the previous packages, 
 please try:
-'''
+,,,
 !pip install (packagename) in jupyter notebook
-'''
+,,,
 or run:
-'''
+,,,
 conda install package name
-'''
+,,,
 
 - The chromedriver is the software that needed to be downloaded outside jupyter notebook
 - The chromedriver has been added to github
