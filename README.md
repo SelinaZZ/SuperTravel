@@ -2,10 +2,10 @@
 # Group name and section: LifeIsHard_T
 
 # Group Members: 
-Jiajing Wang (Section 1) jw3687@columbia.edu\n
-Tian Xia (Section 1) tx2181@columbia.edu \n
-Siyao Zhen (Section 1) sz2778@columbbia.edu \n
-Senhao Hu (Section 1)  sh3818@columbia.edu \n
+-Jiajing Wang (Section 1) jw3687@columbia.edu
+-Tian Xia (Section 1) tx2181@columbia.edu 
+-Siyao Zhen (Section 1) sz2778@columbbia.edu 
+-Senhao Hu (Section 1)  sh3818@columbia.edu 
 
 # Main Idea:
 Our initiative was from our daily life. Everytime we plan to travel to different cities or interested places, we are suffered from planning, scheduling, conflicts and negotiating. There would be tons of different web pages to be opened in order to finish our schedules. Thus, we would like to offering travellers easy way to determine where they want to go, live and eat in New York city. 
