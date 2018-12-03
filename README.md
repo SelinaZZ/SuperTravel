@@ -19,7 +19,6 @@ Then, We grab the name, location, phone number, latitude and longitude from yelp
 Finally, we developed a map for each combination of choice. Since our map.html cannot be shown in our interface, we developed a function to get a screenshot of the map on our main interface, after you chose your preference. The map would show all the locations and sites you needed. This map can save us a lot of time when we travel. We can arrange our time and the travelling order of these sites based on the maps developed. 
 
 # requirements.txt
-# Installation Instructions: In this project, we import several python libraries, including:
 - requests
 - rs4
 - reautifulsoup
