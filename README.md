@@ -20,11 +20,11 @@ Finally, we developed a map for each combination of choice. Since our map.html c
 
 
 # Installation Instructions: In this project, we import several python libraries, including:
-- Requests
-- Bs4
-- Beautifulsoup
-- Pandas
-- Numpy
+- requests
+- rs4
+- reautifulsoup
+- pandas
+- numpy
 - re
 - tkinter
 - tkinter.scrolledtext
@@ -34,12 +34,19 @@ Finally, we developed a map for each combination of choice. Since our map.html c
 - folium
 - sys
 
-# If you have errors in importing any of the previous packages, please try:
-- !pip install (packagename) in jupyter notebook
+# If you have errors in importing any of the previous packages, 
+please try:
+'''
+!pip install (packagename) in jupyter notebook
+'''
+or run:
+'''
+conda install package name
+'''
 
-# 2nd choice: run conda install 
 - The chromedriver is the software that needed to be downloaded outside jupyter notebook
 - The chromedriver has been added to github
+
 
 # Run Instructions:
 - The path.csv needed to be changed.
